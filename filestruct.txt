@@ -8,7 +8,6 @@ Quantalytics
             feature_engineer.py
 |- models:
         model.py
-        train_model.py
         evaluation:
             evaluate.py
             plot_metrics.py
