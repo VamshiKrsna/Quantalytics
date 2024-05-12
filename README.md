@@ -1,2 +1,7 @@
-# stock-forecast-trends-btech
-Stock forecast and trends analysis using multivariate analysis
+# Quantalytics
+
+
+Quantalytics - A Stock Forecast and analysis application
+
+
+Quantalytics can forecast stock data, and perform multivariate analysis.
