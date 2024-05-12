@@ -1,0 +1,29 @@
+Quantalytics
+|- data:
+        raw
+        processed
+        scripts
+            download_data.py
+            clean_data.py
+            feature_engineer.py
+|- models:
+        model.py
+        train_model.py
+        evaluation:
+            evaluate.py
+            plot_metrics.py
+|- api:
+        app.py
+        predict.py
+|- deployment:
+        Dockerfile
+        deploy.sh
+|- MLOps:
+        ci_cd_pipeline.yml
+        monitor.py
+|- Webapp:
+        frontend
+        backend
+requirements.txt
+README.md 
+.gitignore
